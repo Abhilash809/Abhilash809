@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhilash809&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash809&layout=compact&theme=tokyonight" alt="Top Languages Used" />
 </p>
 
 ---
@@ -82,16 +80,12 @@ I'm **Abhilash**, a passionate university student pursuing my degree at **IIT, S
 
 ### 📊 GitHub Stats:
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilash809&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhilash809&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilash809&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash809&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilash809&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
