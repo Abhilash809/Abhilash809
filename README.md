@@ -71,8 +71,8 @@ I'm **Abhilash**, a passionate university student pursuing my degree at **IIT, S
 | Project | Description |
 |--------|-------------|
 | [Portfolio Website](https://github.com/Abhilash809/portfolio-.git) | A personal portfolio site built using HTML, CSS, and JS. |
-| [Nexora Fresh](https://github.com/Abhilash809/Nexora_Fresh.git) | A basic to-do list web app to manage daily tasks. |
-| [Java Console Game](https://github.com/abhilash809/your-java-game-repo) | A mini text-based game built using Java fundamentals. |
+| [Nexora Fresh](https://github.com/Abhilash809/Nexora_Fresh.git) | A real time virtual orgin food marketplace. |
+| [Workzup](https://github.com/abhilash809/your-java-game-repo) | Part time hourly basis job platfrom . |
 
 > *Note: Replace the above links with your actual GitHub project URLs.*
 
