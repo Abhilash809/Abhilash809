@@ -128,7 +128,7 @@
   <a href="mailto:bogahawattaabhilash@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/abhilash-loku-bogahawatta-32820235a">
+  <a href="https://www.linkedin.com/in/abhilash-loku-bogahawatta-32820235a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/itz_yukiii__">
