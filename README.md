@@ -20,14 +20,6 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 ### 👨‍💻 About Me
-const abhilash = {
-degree:     "BSc Software Engineering @ IIT Sri Lanka",
-year:       "3rd Year",
-goal:       "Full Stack Developer",
-location:   "Sri Lanka 🇱🇰",
-currentFocus: ["React.js", "Node.js", "REST APIs"],
-motto:      "Build first. Figure it out along the way."
-};
 
 - 🔭 Working on **real-world full stack projects** to build my portfolio
 - 🌱 Currently deepening skills in **React.js**, **Node.js** & **databases**
